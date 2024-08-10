@@ -1,0 +1,142 @@
+
+ 
+.arriba {
+    background-color: darkgreen;
+    height: 200px;
+    align-content:center;
+    text-align: center;
+    font-size: 70;
+    text-decoration:black;
+    text-transform:uppercase;
+    text: black;
+   }
+    
+#encabezado {
+background-image: url(img/encabezado.jpg); 
+background-size: cover;
+height: 700px;
+}
+
+#subtitulo {color:darkblue}
+
+ p.texto {
+    color :chartreuse
+}
+p.especial {
+    color:darkgoldenrod
+}
+div p {
+    color:darkgrey
+}
+
+/*ancho = width*/
+.barra {
+    border: solid; color: rgba: 0.299, 0.587, 0.114, azul);
+    border-radius: 30px;
+    margin: 50px 30px 50px 30px;
+    background-color: gray;
+    padding: 30px 20px 30px 20px;
+}
+    
+
+.color {
+    border-style:solid;
+    border-color:red;
+    border-radius:12px;
+    border-width:4px;
+    padding: 20px 20px 20px
+}
+#fondo {
+    
+    background-image: url('img/fase3intro.png');
+    background-size: cover;
+height: 400px;
+}
+   
+#margen {
+    background-color: blue;
+    margin: 80px 40px 80px 40px;
+    padding: 5px 5px 5px;
+    border: solid 5px black;
+    height: 100px;
+    }
+     /* height = alto o altura*/
+     a:link {
+        color:darkgreen;  
+     }
+     A:visited {
+        color:blueviolet;
+     }
+     a:hover {
+        color:chartreuse;
+     }
+     a:active {
+        color:red;
+     }
+     #prototipo {
+        background-size: cover;
+            width: 1500px;
+     }
+     .izquierda1 {
+        float: left;
+        border: solid 3px; color: green;
+        width: 45%;
+        height: 535px;
+        border-radius:10px ;
+        background-image: url(img/izq1.jpg);
+        background-size: cover;
+     }
+     .derecha1 {
+        float: right;
+        border: solid 3px; color: orange;
+        border-radius: 10px;
+        width: 45%;
+        height: 614px;
+        background-image: url(img/der1.jpg);
+        background-size: cover;
+       
+
+    
+     }
+     .izquierda2 {
+        float: left;
+        border: solid 3px; color:cornflowerblue;
+        border-radius: 10px;
+        width: 45%; 
+        height: 592px;
+        background-image: url(img/izq2.jpg);
+
+     }
+     .derecha2  {
+        
+        float: right;
+        border: solid 3px; color: green;
+        border-radius: 10px;
+        width: 45%;
+        height: 560px;
+        background-image: url(img/f4.jpg);
+        background-size: cover;
+        
+     }
+     .container {
+        height: 700px;
+     }
+     .container2 {
+        height: 700px;
+     }
+     .footercontainer {
+        height: 200px;
+        border: solid 7px; color:black;
+        background-image: url(img/footer.jpg);
+        background-size: cover;
+        
+     }
+     .footerizq {
+        float: left;
+     }
+     .footerder {
+        float: right;
+     }
+     p:hover {
+        color:cornsilk;
+     }
